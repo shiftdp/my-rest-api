@@ -7,7 +7,7 @@ metadata:
     backstage.io/adr-location: docs/adrs
     github.com/project-slug: shiftdp/my-rest-api
   links:
-    - url: 'https://google.com'
+    - url: 'https://my-rest-api-service-uzl2sxzu2q-oc.a.run.app'
       title: 'my-rest-api Link'
       # icon: ''
       # type: ''
